@@ -1,1 +1,4 @@
-
+# AccessControl IP/HOST
+order allow,deny
+allow from all
+deny from 221.246.200.77
